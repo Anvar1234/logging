@@ -1,0 +1,8 @@
+июн. 09, 2024 4:53:06 PM test_classes.MyTest sum
+INFO: Зашли в метод sum()
+июн. 09, 2024 4:53:06 PM test_classes.MyTest division
+INFO: Зашли в метод division()
+июн. 09, 2024 4:53:06 PM test_classes.MyTest division
+WARNING: Возможно деление на ноль!
+июн. 09, 2024 4:53:06 PM test_classes.MyTest division
+FINE: y == 2
